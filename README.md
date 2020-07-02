@@ -23,7 +23,7 @@ As per Udacity Data Scientist Nanodegree project  we have to write a Data scienc
 I was intriguted to analyze and find house prices of the data given other features like no of bedrooms,square feet area etc.
 This projects analyzes the corelation of price with other features and use the most correlated feature to predict the price of the house . 
 
-For Summary and more information refer to the medium blogpost for this project: https://medium.com
+For Summary and more information refer to the medium blogpost for this project: https://medium.com/@rrajkukausik/this-is-how-to-predict-house-prices-by-building-and-evaluating-a-model-using-linear-regression-f1a51ac4208d
 
 #4.Run
 In a terminal or command window, navigate to the top-level project directory Write_BlogPost/ (that contains this README) and run one of the following commands:
