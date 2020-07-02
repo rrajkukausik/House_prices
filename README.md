@@ -37,8 +37,8 @@ This will open the iPython Notebook software and project file in your browser.
 #Data
 File name - **kc_house_data.csv**
 
-columns
--------
+Its columns names are given below
+
 id
 date	
 price	
