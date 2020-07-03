@@ -39,8 +39,8 @@ File name - **kc_house_data.csv**
 
 Its columns names are given below
 
-id
-date	
+* id
+* date	
 price	
 bedrooms
 bathrooms
