@@ -1,4 +1,4 @@
-# UDACITY DATA SCIENTIST NANODEGREE PROJECT 1
+# UDACITY DATA SCIENTIST NANODEGREE PROJECT - 1
 
 ## 1. Project Name - House_pricing
 This Project predicts housing prices using Simple Linear Regression.
