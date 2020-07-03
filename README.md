@@ -7,11 +7,12 @@ Also evaluates the performance of the model.
 ## 2. Installations
 This project requires Python 3.x and the following Python libraries installed:
 
-scikit-learn==0.21.2
-pandas==0.24.2
-numpy==1.16.4
-matplotlib==3.1.0
-seaborn==0.9.0
+1. scikit-learn==0.21.2
+2. pandas==0.24.2
+3. numpy==1.16.4
+4. matplotlib==3.1.0
+5. seaborn==0.9.0
+
 You will also need to have software installed to run and execute an iPython Notebook
 
 install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
