@@ -28,35 +28,36 @@ For Summary and more information refer to the medium blogpost for this project: 
 ## 4.Run
 In a terminal or command window, navigate to the top-level project directory Write_BlogPost/ (that contains this README) and run one of the following commands:
 
+``` 
 ipython notebook housesales.ipynb
 or
-
 jupyter housesales.ipynb
+```
 This will open the iPython Notebook software and project file in your browser.
 
 ## 5.Data
 File name - **kc_house_data.csv**
 
-Its columns names are given below
+Its **column names** are given below
 
 * id
 * date	
-price	
-bedrooms
-bathrooms
-sqft_living
-sqft_lot	
-floors
-waterfront
-view
-condition
-grade
-sqft_above
-sqft_basement
-yr_built
-yr_renovated
-zipcode	lat	long
-sqft_living15
-sqft_lot15
+* price	
+* bedrooms
+* bathrooms
+* sqft_living
+* sqft_lot	
+* floors
+* waterfront
+* view
+* condition
+* grade
+* sqft_above
+* sqft_basement
+* yr_built
+* yr_renovated
+* zipcode	lat	long
+* sqft_living15
+* sqft_lot15
 
 
