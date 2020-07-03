@@ -1,10 +1,10 @@
-#UDACITY DATA SCIENTIST NANODEGREE PROJECT 1
+# UDACITY DATA SCIENTIST NANODEGREE PROJECT 1
 
-#1. Project Name - House_pricing
+## 1. Project Name - House_pricing
 This Project predicts housing prices using Simple Linear Regression.
 Also evaluates the performance of the model.
 
-#2. Installations
+## 2. Installations
 This project requires Python 3.x and the following Python libraries installed:
 
 scikit-learn==0.21.2
@@ -16,7 +16,7 @@ You will also need to have software installed to run and execute an iPython Note
 
 install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
-#3. Project Motivation
+## 3. Project Motivation
 
 As per Udacity Data Scientist Nanodegree project  we have to write a Data science blogpost using CRISP-DM.
 
@@ -25,7 +25,7 @@ This projects analyzes the corelation of price with other features and use the m
 
 For Summary and more information refer to the medium blogpost for this project: https://medium.com/@rrajkukausik/this-is-how-to-predict-house-prices-by-building-and-evaluating-a-model-using-linear-regression-f1a51ac4208d
 
-#4.Run
+## 4.Run
 In a terminal or command window, navigate to the top-level project directory Write_BlogPost/ (that contains this README) and run one of the following commands:
 
 ipython notebook housesales.ipynb
@@ -34,7 +34,7 @@ or
 jupyter housesales.ipynb
 This will open the iPython Notebook software and project file in your browser.
 
-#Data
+## 5.Data
 File name - **kc_house_data.csv**
 
 Its columns names are given below
